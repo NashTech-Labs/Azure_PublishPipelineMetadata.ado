@@ -1,4 +1,6 @@
 # Publish Pipeline Metadata v0
 # Publish Pipeline Metadata to Evidence store.
+
+steps:
 - task: PublishPipelineMetadata@0
   inputs: # none
